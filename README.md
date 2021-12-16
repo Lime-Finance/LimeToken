@@ -1,6 +1,6 @@
 # LimeToken
 
-"""
+
 
     constructor() public {
         name = "LimeToken";
@@ -12,4 +12,3 @@
         emit Transfer(address(0), msg.sender, _totalSupply);
     }
 
-"""
